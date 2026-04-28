@@ -1,0 +1,12 @@
+# Claude Code
+.claude/
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local server
+server.js
